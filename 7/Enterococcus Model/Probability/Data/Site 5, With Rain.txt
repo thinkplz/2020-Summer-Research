@@ -1,0 +1,6 @@
+5Y, Surfer, Prob, Enterococcus.txt comparing to 5Y, Swimmer, Prob, Enterococcus.txt
+-----------------------------------------
+Surfer GI_PROB greater than 0.032: 76
+Percentage: 0.76
+Swimmer GI_PROB greater than 0.032: 2
+Percentage: 0.02

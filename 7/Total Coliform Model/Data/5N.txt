@@ -1,0 +1,2 @@
+Number of data greater than 10000: 0
+Percentage: 0.0

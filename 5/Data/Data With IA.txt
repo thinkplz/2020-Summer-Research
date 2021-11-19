@@ -1,0 +1,5 @@
+11/03/2009, 'SMB-6-06', 'ENTEROCOCCUS (CS)', 'IDEXX', IA, IA
+6-6, Without Rain, Enterococcus
+
+11/03/2009, 'SMB-6-06', 'TOTAL COLIFORM (CS)', 'SM9223', IA, IA
+6-6, Without Rain, Total Coliform
